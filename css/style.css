@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	background-color: #dff9fb;
+}
+span {
+	font-size: 20px;
+	font-weight: 500;
+	font-style: inherit;
+	color: red;
+}
+h4 {
+	margin: 0;
+}
+p{
+	margin-top: 5px;
+	font-weight: 500;
+	font-size: 20px;
+}
+b{
+	margin: 0 5px;
+}
+.inmation {
+	margin-top: 50px;
+	text-align: center;
+}
+.form-control {
+	border-radius: 0;
+	padding: 30px 50px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+}
+.form-control:focus {
+	border-color: inherit;
+    box-shadow: inherit;
+}
